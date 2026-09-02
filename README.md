@@ -115,7 +115,8 @@ I'm focused on **learning by building**.
 🔄 Repeat
 </pre>
 
-
+Every project is an opportunity to learn something new and become a better developer.
+ 
 ## 🎨 UI/UX Design
 
 I have experience in **UI/UX Design** and enjoy creating clean, intuitive, and user-friendly interfaces.
@@ -167,33 +168,6 @@ I want to continuously improve my:
 
 > **Learn → Build → Break → Fix → Improve → Repeat.**
 
----
-
-## 🧠 My Development Mindset
-
-I believe becoming a good developer is a continuous journey.
-
-You don't need to know everything from the beginning. You need to stay curious, keep practicing, and learn from every problem you face.
-
-<pre>
-        ASK
-         ↓
-       LEARN
-         ↓
-       CODE
-         ↓
-       FAIL
-         ↓
-       DEBUG
-         ↓
-     UNDERSTAND
-         ↓
-       BUILD
-         ↓
-      IMPROVE
-</pre>
-
-Every project is an opportunity to learn something new and become a better developer.
 
 ---
 
