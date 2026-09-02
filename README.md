@@ -1,75 +1,92 @@
-Hi 👋, I'm Nobin
-💻 Aspiring Developer | Programming & Web Development
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Developer+%F0%9F%92%BB;UI%2FUX+Design+Experience+%F0%9F%8E%A8;Learning+Full+Stack+Web+Development+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
 
-<p align="left"> <a href="https://github.com/nobin-codes"> <img src="https://komarev.com/ghpvc/?username=nobin-codes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> </a> </p>
+# Hi 👋, I'm Nobin
+### 💻 Aspiring Developer | Learning Programming & Full Stack Web Development 
 
-👨‍💻 About Me
+---
 
-I'm an aspiring developer currently learning programming and web development. I enjoy turning ideas into projects, solving problems with code, and continuously improving my development skills.
+## 👨‍💻 About Me
 
-I also have a background in UI/UX Design, which has helped me develop an interest in creating clean, intuitive, and user-friendly interfaces.
+I'm an aspiring developer currently learning **programming and modern web development**. I enjoy building projects, solving problems with code, and continuously improving my development skills.
 
-Currently, I'm focused on strengthening my programming fundamentals and building a strong foundation in modern web development.
+I also have experience in **UI/UX Design**, using **Figma** to create clean and user-friendly interfaces.
 
-🛠️ Tech Stack
-🌐 Web Development
+Currently, I'm focused on **JavaScript, TypeScript, and React**, while continuing to strengthen my programming fundamentals and learn **Full Stack Web Development**.
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" /> </p>
+---
 
-🎨 Design
+## 🛠️ Tech Stack
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" /> </p>
+### **Frontend**
 
-⚙️ Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" /> </p>
+### **Design**
 
-📚 Currently Learning
-💡 Programming Fundamentals
-⚡ JavaScript
-🌐 Modern Web Development
-📱 Responsive Web Design
-🔧 Git & GitHub
-🚀 Featured Projects
-🌐 Web DevConf 2026
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-A responsive web development conference landing page built while practicing HTML and CSS.
+### **Tools & Others**
 
-Tech: HTML · CSS
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-☕ My Cafeteria
+---
 
-A web development practice project focused on creating and styling a responsive website.
+## 📚 Currently Learning
 
-Tech: HTML · CSS
+- **JavaScript**
+- **TypeScript**
+- **React**
+- **Full Stack Web Development**
+- **Programming Fundamentals**
+- **Git & GitHub**
+- **Responsive Web Design**
 
-📂 More Projects
+---
 
-I'm continuously building new projects as I learn and improve my development skills.
+## 🚀 What I'm Working On
 
+I'm currently learning **React, TypeScript, and Full Stack Web Development** while building projects to gain practical experience and strengthen my understanding of modern web development.
 
+---
 
+## 🎨 UI/UX Design
 
-🎨 UI/UX Design
+I have experience in **UI/UX Design** and enjoy working with **Figma** to create clean, intuitive, and user-friendly interfaces.
 
-Before focusing more deeply on programming, I developed an interest in UI/UX Design and worked with Figma.
+I'm interested in combining **design and development** to turn ideas into functional digital experiences.
 
-I enjoy exploring the connection between design and development, from designing an interface to understanding how it can be turned into a functional web experience.
+---
 
-🎯 My Goal
+## 🎯 My Goal
 
-My goal is to become a skilled developer by learning consistently, building real-world projects, improving my problem-solving abilities, and continuously expanding my technical knowledge.
+My goal is to become a skilled developer by continuously learning, building real-world projects, improving my problem-solving abilities, and expanding my knowledge of modern web technologies.
 
-Learn → Build → Improve → Repeat.
+> **Learn → Build → Improve → Repeat.**
 
-📊 GitHub Stats
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nobin-codes&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="Nobin's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobin-codes&layout=compact&hide_border=true" height="170" alt="Nobin's Top Languages" /> </p>
+## 🌐 Connect With Me
 
-🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-nobin)
 
-<p align="left"> <a href="https://www.linkedin.com/in/kashif-nobin"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.facebook.com/share/1AczS8fKmH/"> <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> <a href="https://www.instagram.com/nobinmmm/"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://x.com/Nobin042005"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a> </p>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AczS8fKmH/)
 
-<p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nobinmmm/)
 
-<p align="center"> <i>Always learning. Always building.</i> </p>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nobin042005)
+
+---
+
+## 📊 GitHub Stats
+
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nobin-codes&show_icons=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nobin-codes&layout=compact&theme=default) |
