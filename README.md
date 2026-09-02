@@ -131,21 +131,6 @@ My design experience helps me think about both the **visual side** and the **use
 - 🔗 Basic Prototyping
 - 🧩 Layout & Visual Design
 
-### 💭 Design + Development
-
-<pre>
-💡 IDEA
-   ↓
-🎨 DESIGN
-   ↓
-💻 CODE
-   ↓
-🧪 TEST
-   ↓
-🐛 IMPROVE
-   ↓
-🚀 PRODUCT
-</pre>
 
 ---
 
