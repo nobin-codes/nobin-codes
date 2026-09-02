@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nobin-codes/nobin-codes/efc67ae8b8c7406ee8fe4d9544236866acb20cde/nobin-codes-banner-v3.svg" width="100%" alt="Nobin GitHub Banner">
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/nobin-codes/nobin-codes/efc67ae8b8c7406ee8fe4d9544236866acb20cde/nobin-codes-banner-v3.svg" width="100%" alt="Nobin GitHub Banner"> </p>
 
 
 <p align="center">
