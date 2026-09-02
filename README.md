@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Nobin**, an aspiring developer currently focused on learning **programming and modern web development**.
+Hi! I'm **Nobin**, an aspiring developer currently focused on learning **programming and modern web development**. I'm also studying BBA.
 
 I enjoy learning how websites and applications work, building projects from scratch, solving programming problems, and improving my development skills through hands-on practice.
 
