@@ -255,19 +255,16 @@ A collection of smaller projects and exercises created while learning programmin
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kashif-nobin">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/nobinmmm/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;
   <a href="https://www.facebook.com/share/1AczS8fKmH/">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  &nbsp;
   <a href="https://x.com/Nobin042005">
-    <img src="https://cdn.simpleicons.org/x/000000" width="40" height="40" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
