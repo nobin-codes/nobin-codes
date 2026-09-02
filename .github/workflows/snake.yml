@@ -20,10 +20,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Save snake
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy snake
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
