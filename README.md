@@ -45,20 +45,19 @@ I also have experience in **UI/UX Design** and enjoy creating clean, intuitive, 
 🛠️ Skills & Technologies
 Languages
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/> </p>
+<p align="left"> <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" height="45" alt="HTML5"/> &nbsp; <img src="https://cdn.simpleicons.org/css3/1572B6" width="45" height="45" alt="CSS3"/> &nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" height="45" alt="JavaScript"/> &nbsp; <img src="https://cdn.simpleicons.org/typescript/3178C6" width="45" height="45" alt="TypeScript"/> </p>
 
 Web Development
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React"/> </p>
+<p align="left"> <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" height="45" alt="React"/> </p>
 
 Tools & Platforms
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/> </p>
+<p align="left"> <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="Git"/> &nbsp; <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/> &nbsp; <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="45" height="45" alt="VS Code"/> </p>
 
 UI/UX Design
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma"/> </p>
-
+<p align="left"> <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" height="45" alt="Figma"/> </p>
 ## 📚 Currently Learning
 
 | Technology / Area | What I'm Learning |
@@ -233,8 +232,7 @@ A collection of smaller projects and exercises created while learning programmin
 
 🤝 Connect With Me
 
-<p align="left"> <a href="https://www.linkedin.com/in/kashif-nobin"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="38" height="38" alt="LinkedIn"/> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/nobinmmm/"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="38" height="38" alt="Instagram"/> </a> &nbsp;&nbsp; <a href="https://www.facebook.com/share/1AczS8fKmH/"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="38" height="38" alt="Facebook"/> </a> &nbsp;&nbsp; <a href="https://x.com/Nobin042005"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="38" height="38" alt="X"/> </a> </p>
----
+<p align="left"> <a href="https://www.linkedin.com/in/kashif-nobin"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/nobinmmm/"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram"/> </a> &nbsp;&nbsp; <a href="https://www.facebook.com/share/1AczS8fKmH/"> <img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" height="42" alt="Facebook"/> </a> &nbsp;&nbsp; <a href="https://x.com/Nobin042005"> <img src="https://cdn.simpleicons.org/x/000000" width="42" height="42" alt="X"/> </a> </p>
 
 ## ⚡ Quick Overview
 
