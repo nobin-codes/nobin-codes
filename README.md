@@ -230,19 +230,11 @@ Every project is an opportunity to learn something new and become a better devel
     alt="Nobin's GitHub Stats"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nobin-codes&layout=compact&langs_count=6"
-    width="48%"
-    alt="Nobin's Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=nobin-codes&hide_border=true"
-    width="70%"
+    width="48%"
     alt="Nobin's GitHub Streak"
   />
-</p>
+</p> 
 
 
 ## 📌 Highlighted Projects
