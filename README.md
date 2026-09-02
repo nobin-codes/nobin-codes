@@ -39,7 +39,7 @@ I also have experience in **UI/UX Design** and enjoy creating clean, intuitive, 
 - 🛠️ Building **web projects** through hands-on practice
 - 💡 Interested in **programming and building with code**
 - 📍 Based in **Bangladesh**
-- 🧑🏻‍💻 Student at Programming Hero 
+- 🧑🏻‍💻 Student at <strong>Programming Hero</strong>  
 ---
 
 ## 🛠️ Skills & Technologies
