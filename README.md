@@ -221,19 +221,29 @@ Every project is an opportunity to learn something new and become a better devel
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nobin-codes&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=nobin-codes&show_icons=true&include_all_commits=true&rank_icon=github"
+    height="180"
+    alt="Nobin's GitHub Stats"
+  />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobin-codes&layout=compact&hide_border=true&langs_count=8" height="180" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nobin-codes&layout=compact&langs_count=6"
+    height="180"
+    alt="Nobin's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nobin-codes&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=nobin-codes&hide_border=true"
+    height="180"
+    alt="Nobin's GitHub Streak"
+  />
 </p>
-
----
 
 ## 📌 Highlighted Projects
 
