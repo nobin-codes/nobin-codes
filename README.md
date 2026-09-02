@@ -226,13 +226,12 @@ Every project is an opportunity to learn something new and become a better devel
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=nobin-codes&show_icons=true&include_all_commits=true&rank_icon=github"
-    height="180"
+    width="48%"
     alt="Nobin's GitHub Stats"
   />
-  &nbsp;&nbsp;
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=nobin-codes&layout=compact&langs_count=6"
-    height="180"
+    width="48%"
     alt="Nobin's Top Languages"
   />
 </p>
@@ -240,10 +239,11 @@ Every project is an opportunity to learn something new and become a better devel
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=nobin-codes&hide_border=true"
-    height="180"
+    width="70%"
     alt="Nobin's GitHub Streak"
   />
 </p>
+
 
 ## 📌 Highlighted Projects
 
