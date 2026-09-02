@@ -234,7 +234,9 @@ Every project is an opportunity to learn something new and become a better devel
     width="48%"
     alt="Nobin's GitHub Streak"
   />
-</p> 
+</p>
+
+That's cleaner, less crowded, and more appropriate for a beginner developer profile. Your projects and learning progress will become the strongest part as you keep building.
 
 
 ## 📌 Highlighted Projects
