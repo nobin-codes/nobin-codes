@@ -67,7 +67,9 @@ I also have experience in **UI/UX Design** and enjoy creating clean, intuitive, 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <a href="https://github.com/nobin-codes">
+    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
+  </a>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
