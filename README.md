@@ -236,9 +236,6 @@ Every project is an opportunity to learn something new and become a better devel
   />
 </p>
 
-That's cleaner, less crowded, and more appropriate for a beginner developer profile. Your projects and learning progress will become the strongest part as you keep building.
-
-
 ## 📌 Highlighted Projects
 
 ### 🚀 Web DevConf 2026
