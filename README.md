@@ -236,22 +236,6 @@ Every project is an opportunity to learn something new and become a better devel
   />
 </p>
 
-## 📌 Highlighted Projects
-
-### 🚀 Web DevConf 2026
-
-Responsive web development conference landing page.
-
-### ☕ My Cafeteria
-
-Frontend practice project focused on responsive interface development.
-
-### 💻 Practice Projects
-
-A collection of smaller projects and exercises created while learning programming and web development.
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
