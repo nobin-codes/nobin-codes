@@ -42,24 +42,41 @@ I also have experience in **UI/UX Design** and enjoy creating clean, intuitive, 
 
 ---
 
-🛠️ Skills & Technologies
-Languages
+## 🛠️ Skills & Technologies
 
-Languages
+### Languages
 
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&label=" alt="HTML5"> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&label=" alt="CSS3"> &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&label=" alt="JavaScript"> &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&label=" alt="TypeScript"> </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+</p>
 
-Web Development
+### Web Development
 
-<p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&label=" alt="React"> </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+</p>
 
-Tools & Platforms
+### Tools
 
-<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&label=" alt="Git"> &nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&label=" alt="GitHub"> &nbsp; <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&label=" alt="VS Code"> </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+</p>
 
-UI/UX Design
+### UI/UX Design
 
-<p align="left"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&label=" alt="Figma"> </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+</p>
 
 
 ## 📚 Currently Learning
@@ -236,7 +253,23 @@ A collection of smaller projects and exercises created while learning programmin
 
 🤝 Connect With Me
 
-<p align="left"> <a href="https://www.linkedin.com/in/kashif-nobin"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=" alt="LinkedIn"> </a> &nbsp; <a href="https://www.instagram.com/nobinmmm/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&label=" alt="Instagram"> </a> &nbsp; <a href="https://www.facebook.com/share/1AczS8fKmH/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&label=" alt="Facebook"> </a> &nbsp; <a href="https://x.com/Nobin042005"> <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&label=" alt="X"> </a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kashif-nobin">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/nobinmmm/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1AczS8fKmH/">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Nobin042005">
+    <img src="https://cdn.simpleicons.org/x/000000" width="40" height="40" alt="X"/>
+  </a>
+</p>
 
 ## ⚡ Quick Overview
 
@@ -254,11 +287,18 @@ A collection of smaller projects and exercises created while learning programmin
 ---
 
 
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake.svg" alt="GitHub contribution snake">
 </picture>
+
+
+
+
 
 <p align="center">
   <strong>🚀 Keep Learning. Keep Building. Keep Improving.</strong>
