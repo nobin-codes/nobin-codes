@@ -164,9 +164,9 @@ My design experience helps me think about both the **visual side** and the **use
 
 A responsive web development conference landing page built as part of my web development learning journey.
 
-### ☕ My Cafeteria
+### 💼 Nexa — Business Website
 
-A web project created while practicing frontend development and building responsive interfaces.
+A modern business website built to showcase digital services and solutions as part of my web development learning journey.
 
 ### 💻 Practice Projects
 
