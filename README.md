@@ -151,23 +151,6 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 
 > 🚧 More projects will be added as I continue learning and building.
 
----
-
-## 🌟 My Goal
-
-My long-term goal is to become a skilled **Full Stack Web Developer** who understands both the technical and design sides of digital products.
-
-I want to continuously improve my:
-
-- 💻 Development skills
-- 🧠 Problem-solving abilities
-- 🎨 UI/UX knowledge
-- 🌐 Web development knowledge
-- 🛠️ Project-building experience
-- 📚 Understanding of modern technologies
-
-> **Learn → Build → Break → Fix → Improve → Repeat.**
-
 
 ---
 
