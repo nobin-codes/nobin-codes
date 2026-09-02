@@ -65,13 +65,9 @@ I also have experience in **UI/UX Design** and enjoy creating clean, intuitive, 
 ### Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  &nbsp;
-  <a href="https://github.com/nobin-codes">
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="32" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="32" alt="VS Code"/>
 </p>
 
 ### UI/UX Design
