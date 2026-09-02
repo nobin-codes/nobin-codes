@@ -115,15 +115,6 @@ I'm focused on **learning by building**.
 🔄 Repeat
 </pre>
 
-- 🌱 Learning **React**
-- 📘 Learning **TypeScript**
-- 🌐 Learning **Full Stack Web Development**
-- 💻 Practicing JavaScript
-- 🧠 Strengthening programming logic
-- 🛠️ Building projects for practical experience
-- 🔄 Improving my coding skills through practice
-
----
 
 ## 🎨 UI/UX Design
 
