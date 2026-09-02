@@ -1,11 +1,6 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/nobin-codes/nobin-codes/efc67ae8b8c7406ee8fe4d9544236866acb20cde/nobin-codes-banner-v3.svg" width="100%" alt="Nobin GitHub Banner"> </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nobin-codes/nobin-codes/main/banner.png" width="100%" alt="Nobin GitHub Banner">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=%3C+Hello%2C+I'm+Nobin+%2F%3E;Aspiring+Developer;Learning+Full+Stack+Web+Development;UI%2FUX+Design+Experience" alt="Typing Animation" />
 </p>
