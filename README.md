@@ -251,7 +251,7 @@ A collection of smaller projects and exercises created while learning programmin
 
 ---
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kashif-nobin">
