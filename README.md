@@ -56,22 +56,29 @@ I also have experience with UI/UX design and enjoy combining design with develop
   </a>
 </p>
 
+<br>
+<br>
+
 🛠️ Technology Stack
 💻 Languages
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="48" alt="HTML5, CSS3, JavaScript, TypeScript" /> </p>
+<br>
 
 ⚛️ JavaScript Frameworks & Libraries
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs" height="48" alt="React, Node.js" /> </p>
+<br>
 
 🧰 Tools & Technologies
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=vscode,git,github" height="48" alt="VS Code, Git, GitHub" /> </p>
+<br>
 
 🎨 Design
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma,ai" height="48" alt="Figma, Adobe Illustrator" /> </p>
+<br>
 
 
 ## 📚 Currently Learning
@@ -183,7 +190,7 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 
 
 
-
+<br>
 
 <p align="center">
   <strong>🚀 Keep Learning. Keep Building. Keep Improving.</strong>
