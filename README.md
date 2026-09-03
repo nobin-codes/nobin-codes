@@ -22,7 +22,6 @@
 <p align="center">
   <em>Learning • Building • Practicing • Improving</em>
 </p>
-
 ---
 
 I'm an aspiring developer currently learning programming and web development. 
