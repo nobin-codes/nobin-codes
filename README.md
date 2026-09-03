@@ -163,7 +163,6 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 
  <h2>⚡ Quick Overview</h2>
 
-<p>&nbsp;</p>
 
 | | |
 | :--- | :--- |
