@@ -159,28 +159,10 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nobin-codes&theme=github"
-    width="100%"
-    alt="Nobin's GitHub Profile Summary"
+    src="https://github-readme-stats.vercel.app/api?username=nobin-codes&show_icons=true"
+    alt="Nobin's GitHub Stats"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nobin-codes&theme=github"
-    width="48%"
-    alt="Repositories per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nobin-codes&theme=github"
-    width="48%"
-    alt="Most Commit Language"
-  />
-</p>
-
-এটা আগেরটার মতো শুধু দুইটা broken card না। এখানে profile activity + languages দুটোই দেখাবে এবং দেখতে অনেক cleaner হবে।
-
-Streak আলাদা করে দেওয়ার দরকার নেই, কারণ criteria-তে “ইত্যাদি” বলা আছে, সবগুলো mandatory না।
 <br>
 ## ⚡ Quick Overview
 
