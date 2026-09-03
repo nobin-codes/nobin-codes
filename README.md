@@ -160,22 +160,19 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
   />
 </p>
 <br>
- ⚡ Quick Overview
- 
+
+ ## ⚡ Quick Overview
+
 <br>
 
 | | |
 | :--- | :--- |
-| 👨‍💻 **Current Role** | Aspiring Developer |
-| 🌐 **Current Focus** | Full Stack Web Development |
-| 🟨 **Learning** | JavaScript |
-| 🔷 **Learning** | TypeScript |
-| ⚛️ **Learning** | React |
+| 👨‍💻 **Role** | Aspiring Developer |
+| 🌐 **Focus** | Full Stack Web Development |
+| 📚 **Currently Learning** | JavaScript • TypeScript • React |
 | 🎨 **Experience** | UI/UX Design |
-| 🧰 **Tools** | Git, GitHub & VS Code |
+| 🧰 **Tools** | Git • GitHub • VS Code |
 | 🚀 **Approach** | Learn → Build → Improve |
-
----
 
 
 
