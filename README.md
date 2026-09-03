@@ -13,17 +13,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7C3AED&height=3&section=header" width="85%" />
 </p>
 
-<h1 align="center">
-  Heyy 👋, I'm Kashif Akhter Nobin
-</h1>
+<h1 align="center">Heyy 👋, I'm Kashif Akhter Nobin</h1> <h3 align="center"> Aspiring Developer | Learning Web Development & Programming </h3> <p align="center"> <em>Learning • Building • Practicing • Improving</em> </p> ---
 
-<h3 align="center">
-  Aspiring Developer | Learning Web Development & Programming
-</h3>
-
-<p align="center">
-  <em>Learning • Building • Practicing • Improving</em>
-</p>
 <br>
 
 I'm an aspiring developer currently learning programming and web development. 
