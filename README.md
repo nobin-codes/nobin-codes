@@ -36,20 +36,21 @@ I also have experience with UI/UX design and enjoy combining design with develop
 - 🧑🏻‍💻 Student at <strong>Programming Hero</strong>  
 ---
 
-🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
+
+### 💻 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 
-💻 Languages & Web Development
-
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> </p>
-
-🧰 Tools
-
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/> </p>
-
-🎨 UI/UX Design
-
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/> </p>
 
 ## 📚 Currently Learning
 
