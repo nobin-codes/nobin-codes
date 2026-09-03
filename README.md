@@ -157,14 +157,30 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 ---
 <h2>📊 GitHub Stats</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nobin-codes&show_icons=true&theme=transparent&hide_border=true" width="48%" alt="Nobin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobin-codes&layout=compact&theme=transparent&hide_border=true" width="48%" alt="Nobin's Top Languages" />
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nobin-codes&theme=github"
+    width="100%"
+    alt="Nobin's GitHub Profile Summary"
+  />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nobin-codes&theme=transparent&hide_border=true" width="48%" alt="Nobin's GitHub Streak" />
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nobin-codes&theme=github"
+    width="48%"
+    alt="Repositories per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nobin-codes&theme=github"
+    width="48%"
+    alt="Most Commit Language"
+  />
 </p>
+
+এটা আগেরটার মতো শুধু দুইটা broken card না। এখানে profile activity + languages দুটোই দেখাবে এবং দেখতে অনেক cleaner হবে।
+
+Streak আলাদা করে দেওয়ার দরকার নেই, কারণ criteria-তে “ইত্যাদি” বলা আছে, সবগুলো mandatory না।
 <br>
 ## ⚡ Quick Overview
 
