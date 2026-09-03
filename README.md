@@ -36,23 +36,23 @@ I also have experience with UI/UX design and enjoy combining design with develop
 - 🧑🏻‍💻 Student at <strong>Programming Hero</strong>  
 ---
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <p align="left">
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="44" height="44" alt="Instagram" />
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="44" height="44" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/1520315311742652466" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="44" height="44" alt="Discord" />
+  <a href="https://discord.com/users/1520315311742652466">
+    <img src="https://img.icons8.com/color/48/discord-logo.png" width="44" height="44" alt="Discord"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kashif-nobin" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="44" height="44" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/kashif-nobin">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="44" height="44" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Nobin042005" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" width="44" height="44" alt="X" />
+  <a href="https://x.com/Nobin042005">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" width="44" height="44" alt="X"/>
   </a>
 </p>
 
