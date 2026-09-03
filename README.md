@@ -161,9 +161,9 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 </p>
 <br>
 
- ## ⚡ Quick Overview
+ <h2>⚡ Quick Overview</h2>
 
-<br>
+<p>&nbsp;</p>
 
 | | |
 | :--- | :--- |
