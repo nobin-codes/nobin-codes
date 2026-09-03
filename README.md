@@ -52,7 +52,6 @@ I also have experience with UI/UX design and enjoy combining design with develop
 </p>
 
 <br>
-<br>
 
 🛠️ Technology Stack
 💻 Languages
