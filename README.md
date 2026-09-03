@@ -161,8 +161,9 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 </p>
 <br>
 
- <h2>⚡ Quick Overview</h2>
+<h2>⚡ Quick Overview</h2>
 
+<br>
 
 | | |
 | :--- | :--- |
@@ -172,7 +173,6 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 | 🎨 **Experience** | UI/UX Design |
 | 🧰 **Tools** | Git • GitHub • VS Code |
 | 🚀 **Approach** | Learn → Build → Improve |
-
 
 
 
