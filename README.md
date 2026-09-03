@@ -38,9 +38,7 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 🌐 Connect With Me
 
-<p align="left"> <a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="YOUR_FACEBOOK_LINK"> <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> &nbsp; <a href="YOUR_X_LINK"> <img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a> </p>
-
-
+<p align="left"> <a href="https://www.instagram.com/"> <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" /> </a> &nbsp;&nbsp; <a href="https://www.facebook.com/share/1AczS8fKmH/"> <img src="https://skillicons.dev/icons?i=facebook" height="48" alt="Facebook" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/kashif-nobin"> <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /> </a> &nbsp;&nbsp; <a href="https://x.com/Nobin042005"> <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" /> </a> </p>
 
 
 🛠️ Technology Stack
