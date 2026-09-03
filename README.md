@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=%3C+Hello%2C+I'm+Nobin+%2F%3E;Aspiring+Developer;Learning+Full+Stack+Web+Development;UI%2FUX+Design+Experience" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&height=90&lines=%3C+Hello%2C+I'm+Nobin+%2F%3E;%E2%9A%A1+Aspiring+Developer+%7C+Code+%26+Create;%F0%9F%9A%80+Learning+Full+Stack+Web+Development;%F0%9F%92%BB+Turning+Ideas+Into+Interactive+Web+Experiences;%F0%9F%8E%A8+UI%2FUX+Design+Experience;%F0%9F%94%A5+Build.+Break.+Learn.+Repeat."
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
