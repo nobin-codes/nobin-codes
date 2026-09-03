@@ -157,9 +157,13 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 ---
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nobin-codes&show_icons=true&include_all_commits=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobin-codes&layout=compact" height="180" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nobin-codes&show_icons=true&include_all_commits=true&rank_icon=github" height="180" alt="Nobin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobin-codes&layout=compact" height="180" alt="Nobin's Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=nobin-codes" height="180" alt="Nobin's GitHub Streak" />
 </p>
 
 
