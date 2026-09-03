@@ -41,7 +41,7 @@ I also have experience with UI/UX design and enjoy combining design with develop
 ### 💻 Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  ![Static Badge](https://img.shields.io/badge/:badgeContent)
 </p>
 
 ### 🎨 Design
