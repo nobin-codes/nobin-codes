@@ -166,6 +166,8 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 </p>
 <br>
  ⚡ Quick Overview
+ 
+<br>
 
 | | |
 | :--- | :--- |
@@ -181,7 +183,7 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 ---
 
 
-<br>
+
 
 
 <picture>
