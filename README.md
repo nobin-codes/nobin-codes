@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./nobin-codes-banner-v3.svg" alt="Nobin GitHub Banner" />
+  <img src="./nobin-codes-banner-v3.svg" alt="Nobin GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -10,13 +10,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7C3AED&height=3&section=header" width="85%" />
 </p>
 
-<h1 align="center">Heyy👋, I'm Nobin</h1>
+<h1 align="center">Hi 👋, I'm Kashif Akhter Nobin</h1>
 
-<p align="center">
-  💻 <strong>Aspiring Developer</strong> &nbsp;•&nbsp;
-  🚀 <strong>Full Stack Web Development Learner</strong> &nbsp;•&nbsp;
-  🎨 <strong>UI/UX Design Experience</strong>
-</p>
+<h3 align="center">
+  Aspiring Developer | Learning Web Development & Programming
+</h3>
 
 <p align="center">
   <em>Learning • Building • Practicing • Improving</em>
@@ -24,15 +22,10 @@
 
 ---
 
-## 👋 About Me
+I'm an aspiring developer currently learning programming and web development. 
+I enjoy building websites, exploring new technologies, and improving my development skills.
 
-Hi! I'm **Nobin**, an aspiring developer currently focused on learning **programming and modern web development**. I'm also studying BBA.
-
-I enjoy learning how websites and applications work, building projects from scratch, solving programming problems, and improving my development skills through hands-on practice.
-
-Currently, I'm focused on **JavaScript, TypeScript, and React**, while continuing to strengthen my programming fundamentals and learn **Full Stack Web Development**.
-
-I also have experience in **UI/UX Design** and enjoy creating clean, intuitive, and user-friendly interfaces.
+I also have experience with UI/UX design and enjoy combining design with development to create better digital experiences.
 
 - 🔭 Currently focused on **Full Stack Web Development**
 - 🌱 Currently learning **JavaScript, TypeScript, and React**
@@ -68,7 +61,9 @@ I also have experience in **UI/UX Design** and enjoy creating clean, intuitive, 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/github/000000" width="40" height="40" alt="GitHub"/>
+  <p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
@@ -154,36 +149,25 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=nobin-codes&show_icons=true&include_all_commits=true&rank_icon=github"
-    width="48%"
-    alt="Nobin's GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=nobin-codes&hide_border=true"
-    width="48%"
-    alt="Nobin's GitHub Streak"
-  />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nobin-codes&show_icons=true&include_all_commits=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobin-codes&layout=compact" height="180" />
 </p>
 
-## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kashif-nobin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+## 🌐 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/nobinmmm/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
+  <a href="YOUR_FACEBOOK_URL">
+    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" />
   </a>
-  <a href="https://www.facebook.com/share/1AczS8fKmH/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook"/>
-  </a>
-  <a href="https://x.com/Nobin042005">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X"/>
+  <a href="YOUR_X_URL">
+    <img src="https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x" />
   </a>
 </p>
 
