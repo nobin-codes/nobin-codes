@@ -159,7 +159,8 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nobin-codes&show_icons=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nobin-codes&theme=github"
+    width="500"
     alt="Nobin's GitHub Stats"
   />
 </p>
