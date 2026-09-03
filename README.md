@@ -36,20 +36,22 @@ I also have experience with UI/UX design and enjoy combining design with develop
 - 🧑🏻‍💻 Student at <strong>Programming Hero</strong>  
 ---
 
-## 🛠️ Skills & Technologies
+🛠️ Technology Stack
+💻 Languages
 
-### 💻 Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="48" alt="HTML5, CSS3, JavaScript, TypeScript" /> </p>
 
-<p>
-  ![Static Badge](https://img.shields.io/badge/:badgeContent)
-</p>
+⚛️ JavaScript Frameworks & Libraries
 
-### 🎨 Design
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs" height="48" alt="React, Node.js" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+🧰 Tools & Technologies
 
+<p align="left"> <img src="https://skillicons.dev/icons?i=vscode,git,github" height="48" alt="VS Code, Git, GitHub" /> </p>
+
+🎨 Design
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=figma,ai" height="48" alt="Figma, Adobe Illustrator" /> </p>
 
 
 ## 📚 Currently Learning
