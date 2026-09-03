@@ -36,9 +36,25 @@ I also have experience with UI/UX design and enjoy combining design with develop
 - 🧑🏻‍💻 Student at <strong>Programming Hero</strong>  
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left"> <a href="YOUR_INSTAGRAM_URL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" width="48" height="48" alt="Instagram" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/share/1CngJeUp6V/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="48" height="48" alt="Facebook" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/kashif-nobin"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://x.com/Nobin042005"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="48" height="48" alt="X" /> </a> </p>
+<p align="left">
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="44" height="44" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/1520315311742652466" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="44" height="44" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kashif-nobin" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="44" height="44" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Nobin042005" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="44" height="44" alt="X" />
+  </a>
+</p>
 
 🛠️ Technology Stack
 💻 Languages
