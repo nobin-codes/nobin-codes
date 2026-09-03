@@ -36,6 +36,13 @@ I also have experience with UI/UX design and enjoy combining design with develop
 - 🧑🏻‍💻 Student at <strong>Programming Hero</strong>  
 ---
 
+🌐 Connect With Me
+
+<p align="left"> <a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="YOUR_FACEBOOK_LINK"> <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> &nbsp; <a href="YOUR_X_LINK"> <img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a> </p>
+
+
+
+
 🛠️ Technology Stack
 💻 Languages
 
@@ -135,20 +142,6 @@ Smaller projects and exercises created to strengthen my understanding of HTML, C
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobin-codes&layout=compact" height="180" />
 </p>
 
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="YOUR_FACEBOOK_URL">
-    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" />
-  </a>
-  <a href="YOUR_X_URL">
-    <img src="https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x" />
-  </a>
-</p>
 
 ## ⚡ Quick Overview
 
