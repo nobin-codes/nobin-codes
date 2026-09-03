@@ -38,9 +38,7 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 🌐 Connect With Me
 
-<p align="left"> <a href="https://www.instagram.com/"> <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" /> </a> &nbsp;&nbsp; <a href="https://www.facebook.com/share/1CngJeUp6V/">
-  <img src="https://skillicons.dev/icons?i=facebook" height="48" alt="Facebook" />
-</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/kashif-nobin"> <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /> </a> &nbsp;&nbsp; <a href="https://x.com/Nobin042005"> <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" /> </a> </p>
+<p align="left"> <a href="https://www.instagram.com/"> <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" /> </a> &nbsp;&nbsp; <a href="https://www.facebook.com/share/1CngJeUp6V/"> <img src="https://skillicons.dev/icons?i=facebook" height="48" alt="Facebook" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/kashif-nobin"> <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /> </a> &nbsp;&nbsp; <a href="https://x.com/Nobin042005"> <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" /> </a> </p>
 
 
 🛠️ Technology Stack
