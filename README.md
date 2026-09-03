@@ -39,7 +39,7 @@ I also have experience with UI/UX design and enjoy combining design with develop
 <h2>🌐 Connect With Me</h2>
 
 <p align="left">
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="https://www.instagram.com/nobinmmm">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="44" height="44" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
