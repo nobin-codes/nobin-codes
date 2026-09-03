@@ -40,19 +40,19 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 <p align="left">
   <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="44" height="44" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/1520315311742652466">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" width="44" height="44" alt="Discord"/>
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kashif-nobin">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="44" height="44" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Nobin042005">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" width="44" height="44" alt="X"/>
+    <img src="https://cdn.simpleicons.org/x/181717" width="42" height="42" alt="X"/>
   </a>
 </p>
 
