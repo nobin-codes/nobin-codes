@@ -53,7 +53,9 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 <br>
 
-🛠️ Technology Stack
+<span>🛠️ Technology Stack </span>
+<br>
+
 💻 Languages
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="48" alt="HTML5, CSS3, JavaScript, TypeScript" /> </p>
@@ -61,7 +63,7 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 ⚛️ JavaScript Frameworks & Libraries
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs" height="48" alt="React, Node.js" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss" height="48" alt="React, Node.js, Tailwind CSS" /> </p>
 <br>
 
 🧰 Tools & Technologies
@@ -73,7 +75,6 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=figma,ai" height="48" alt="Figma, Adobe Illustrator" /> </p>
 <br>
-
 
 ## 📚 Currently Learning
 
