@@ -47,8 +47,8 @@ I also have experience with UI/UX design and enjoy combining design with develop
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Nobin042005">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X"/>
-</a>
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="44" height="44" alt="X"/>
+  </a>
 </p>
 
 <br>
