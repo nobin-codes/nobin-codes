@@ -59,6 +59,7 @@ I also have experience with UI/UX design and enjoy combining design with develop
 💻 Languages
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="48" alt="HTML5, CSS3, JavaScript, TypeScript" /> <img src="https://skillicons.dev/icons?i=es6" height="48" alt="ES6" />
+  <br>
 ⚛️ JavaScript Frameworks & Libraries
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss" height="48" alt="React, Node.js, Tailwind CSS" /> </p>
