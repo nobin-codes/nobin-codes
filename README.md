@@ -1,134 +1,99 @@
-<p align="center">
-  <img src="./nobin-codes-banner-v3.svg" alt="Nobin GitHub Banner" width="100%" />
-</p>
+## 👋 Hey, I'm Kashif Akhter Nobin
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&height=90&lines=%3C+Hello%2C+I'm+Nobin+%2F%3E;%E2%9A%A1+Aspiring+Developer+%7C+Code+%26+Create;%F0%9F%9A%80+Learning+Full+Stack+Web+Development;%F0%9F%92%BB+Turning+Ideas+Into+Interactive+Web+Experiences;%F0%9F%8E%A8+UI%2FUX+Design+Experience;%F0%9F%94%A5+Build.+Break.+Learn.+Repeat."
-    alt="Typing Animation"
-  />
-</p>
+\<p align="center">   \<img src="./nobin-codes-banner-v3.svg" alt="Nobin GitHub Banner" width="100%" /> \</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7C3AED&height=3&section=header" width="85%" />
-</p>
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&height=90&lines=%3C+Hello%2C+I](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=27\&duration=2500\&pause=900\&color=58A6FF\&center=true\&vCenter=true\&width=1000\&height=90\&lines=%3C+Hello%2C+I)'m+Nobin+%2F%3E;%E2%9A%A1+Full+Stack+Web+Programmer;%F0%9F%9A%80+Building+Modern+Web+Applications;%F0%9F%92%BB+Turning+Ideas+Into+Interactive+Experiences;%F0%9F%8E%A8+UI%2FUX+Design+Background;%F0%9F%94%A5+Code.+Create.+Innovate." alt="Typing Animation" /> \</p>
 
-<h1 align="center">Heyy 👋, I'm Kashif Akhter Nobin</h1> <h3 align="center"> Aspiring Developer | Learning Web Development & Programming </h3> <p align="center"> <em>Learning • Building • Practicing • Improving</em> </p> 
+\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7C3AED&height=3&section=header](https://capsule-render.vercel.app/api?type=rect\&color=0:58A6FF,100:7C3AED\&height=3\&section=header)" width="85%" /> \</p>
 
-<br>
+\<h1 align="center">Hey 👋, I'm Kashif Akhter Nobin\</h1>
 
-I'm an aspiring developer currently learning programming and web development. 
-I enjoy building websites, exploring new technologies, and improving my development skills.
+\<h3 align="center">Full Stack Web Programmer | UI/UX Designer\</h3>
 
-I also have experience with UI/UX design and enjoy combining design with development to create better digital experiences.
+\<p align="center">
+&#x20; \<em>Designing • Programming • Building • Innovating\</em>
+\</p>
 
-- 🔭 Currently focused on **Full Stack Web Development**
-- 🌱 Currently learning **JavaScript, TypeScript, and React**
-- 🧠 Strengthening my **programming fundamentals and problem-solving skills**
-- 🛠️ Building **web projects** through hands-on practice
-- 💡 Interested in **programming and building with code**
-- 📍 Based in **Bangladesh**
-- 🧑🏻‍💻 Student at <strong>Programming Hero</strong>  
----
+\<br>
 
-<h2>🌐 Connect With Me</h2>
+I'm a **Full Stack Web Programmer** passionate about building modern, responsive, and interactive web applications.
 
-<p align="left">
-  <a href="https://www.instagram.com/nobinmmm">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="44" height="44" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/1520315311742652466">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" width="44" height="44" alt="Discord"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kashif-nobin">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="44" height="44" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Nobin042005">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="44" height="44" alt="X"/>
-  </a>
-</p>
+I enjoy transforming ideas into functional digital products, writing clean code, and developing solutions that combine functionality with thoughtful design.
 
-<br>
+With a background in **UI/UX Design**, I bring a design-focused perspective to programming, creating digital experiences that are both visually appealing and user-friendly.
 
-<span>🛠️ Technology Stack </span>
-<br>
-
-💻 Languages
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="48" alt="HTML5, CSS3, JavaScript, TypeScript" /> </p>
-<br>
-
-⚛️ JavaScript Frameworks & Libraries
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss" height="48" alt="React, Node.js, Tailwind CSS" /> </p>
-<br>
-
-🧰 Tools & Technologies
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=vscode,git,github" height="48" alt="VS Code, Git, GitHub" /> </p>
-<br>
-
-🎨 Design
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=figma,ai" height="48" alt="Figma, Adobe Illustrator" /> </p>
-<br>
-
-## 📚 Currently Learning
-
-| Technology / Area | What I'm Learning |
-| :--- | :--- |
-| 🟨 **JavaScript** | Programming fundamentals & modern JavaScript |
-| 🔷 **TypeScript** | Typed JavaScript & better code structure |
-| ⚛️ **React** | Components, props, state & modern React |
-| 🌐 **Full Stack Web Development** | Building toward frontend + backend development |
-| 🧠 **Programming Fundamentals** | Logic, problem solving & core concepts |
-| 📱 **Responsive Web Design** | Creating interfaces for different screen sizes |
-| 🔧 **Git & GitHub** | Version control & project management |
+- 💻 **Focus:** Full Stack Web Development
+- ⚡ **Languages:** JavaScript & TypeScript
+- ⚛️ **Frontend:** React & Modern Web Technologies
+- 🛠️ **Development:** Building Web Applications & Digital Products
+- 🎨 **Background:** UI/UX Design
+- 📍 **Location:** Bangladesh
 
 ---
 
-## 🚀 What I'm Working On
+## 🌐 Connect With Me
 
-I'm focused on **learning by building**.
+\<p align="left">   \<a href="[https://www.instagram.com/nobinmmm](https://www.instagram.com/nobinmmm)">     \<img src="[https://img.icons8.com/fluency/48/instagram-new.png](https://img.icons8.com/fluency/48/instagram-new.png)" width="44" height="44" alt="Instagram"/>   \</a>   &nbsp;&nbsp;&nbsp;&nbsp;   \<a href="[https://discord.com/users/1520315311742652466](https://discord.com/users/1520315311742652466)">     \<img src="[https://img.icons8.com/color/48/discord-logo.png](https://img.icons8.com/color/48/discord-logo.png)" width="44" height="44" alt="Discord"/>   \</a>   &nbsp;&nbsp;&nbsp;&nbsp;   \<a href="[https://www.linkedin.com/in/kashif-nobin](https://www.linkedin.com/in/kashif-nobin)">     \<img src="[https://img.icons8.com/color/48/linkedin.png](https://img.icons8.com/color/48/linkedin.png)" width="44" height="44" alt="LinkedIn"/>   \</a>   &nbsp;&nbsp;&nbsp;&nbsp;   \<a href="[https://x.com/Nobin042005](https://x.com/Nobin042005)">     \<img src="[https://img.icons8.com/ios-filled/50/000000/twitterx.png](https://img.icons8.com/ios-filled/50/000000/twitterx.png)" width="44" height="44" alt="X"/>   \</a> \</p>
 
-### 🔥 Current Learning Path
+\<br>
 
-<pre>
-📖 Learn
-   ↓
-💻 Practice
-   ↓
-🧪 Experiment
-   ↓
-🐛 Debug
-   ↓
-🚀 Build
-   ↓
-📈 Improve
-   ↓
-🔄 Repeat
-</pre>
+## 🛠️ Technology Stack
 
-Every project is an opportunity to learn something new and become a better developer.
- 
+### 💻 Programming Languages
+
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,ts](https://skillicons.dev/icons?i=html,css,js,ts)" height="48" alt="HTML5, CSS3, JavaScript, TypeScript" />
+\</p>
+
+\<br>
+
+### ⚛️ Frameworks & Libraries
+
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=react,nodejs,tailwindcss](https://skillicons.dev/icons?i=react,nodejs,tailwindcss)" height="48" alt="React, Node.js, Tailwind CSS" />
+\</p>
+
+\<br>
+
+### 🧰 Development Tools
+
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=vscode,git,github](https://skillicons.dev/icons?i=vscode,git,github)" height="48" alt="VS Code, Git, GitHub" />
+\</p>
+
+\<br>
+
+### 🎨 Design Tools
+
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=figma,ai](https://skillicons.dev/icons?i=figma,ai)" height="48" alt="Figma, Adobe Illustrator" />
+\</p>
+
+\<br>
+
+## 🚀 What I Do
+
+- Develop responsive and interactive web applications
+- Build modern frontend interfaces using React
+- Create full stack web solutions
+- Develop clean and maintainable code
+- Implement user-focused interfaces
+- Transform design concepts into functional digital products
+
+---
+
 ## 🎨 UI/UX Design
 
-I have experience in **UI/UX Design** and enjoy creating clean, intuitive, and user-friendly interfaces.
+My UI/UX design background complements my programming work, helping me create digital products with a strong balance of aesthetics, usability, and functionality.
 
-My design experience helps me think about both the **visual side** and the **user experience** when working on digital products.
-
-### 🖌️ Design Interests
+### 🖌️ Design Expertise
 
 - 🎨 User Interface Design
-- 🧠 User Experience
+- 🧠 User Experience Design
 - 📱 Mobile & Web Interfaces
 - 🖥️ Dashboard Design
-- 🔗 Basic Prototyping
+- 🔗 Interactive Prototyping
 - 🧩 Layout & Visual Design
-
 
 ---
 
@@ -136,65 +101,60 @@ My design experience helps me think about both the **visual side** and the **use
 
 ### 🚀 Web DevConf 2026
 
-A responsive web development conference landing page built as part of my web development learning journey.
+A responsive web development conference landing page featuring a modern interface and engaging visual presentation.
 
 ### 💼 Nexa — Business Website
 
-A modern business website built to showcase digital services and solutions as part of my web development learning journey.
+A modern business website designed to showcase digital services and solutions through a clean and responsive interface.
 
-### 💻 Practice Projects
+### 💻 Web Development Projects
 
-Smaller projects and exercises created to strengthen my understanding of HTML, CSS, JavaScript, React, and modern web development.
-
-> 🚧 More projects will be added as I continue learning and building.
-
+A collection of web applications and projects built using HTML, CSS, JavaScript, React, and modern web technologies.
 
 ---
-<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nobin-codes&theme=github"
-    width="500"
-    alt="Nobin's GitHub Stats"
-  />
-</p>
-<br>
+\<h2>📊 GitHub Stats\</h2>
 
-<h2>⚡ Quick Overview</h2>
+\<p align="center">
+&#x20; \<img
+&#x20;   src="[https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nobin-codes&theme=github](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nobin-codes\&theme=github)"
+&#x20;   width="500"
+&#x20;   alt="Nobin's GitHub Stats"
+&#x20; />
+\</p>
 
-<br>
+\<br>
 
-| | |
-| :--- | :--- |
-| 👨‍💻 **Role** | Aspiring Developer |
-| 🌐 **Focus** | Full Stack Web Development |
-| 📚 **Currently Learning** | JavaScript • TypeScript • React |
-| 🎨 **Experience** | UI/UX Design |
-| 🧰 **Tools** | Git • GitHub • VS Code |
-| 🚀 **Approach** | Learn → Build → Improve |
+\<h2>⚡ Quick Overview\</h2>
 
+\<br>
 
+|                       |                            |
+| :-------------------- | :------------------------- |
+| 👨‍💻 **Role**        | Full Stack Web Programmer  |
+| 🌐 **Specialization** | Full Stack Web Development |
+| 💻 **Languages**      | JavaScript • TypeScript    |
+| ⚛️ **Frameworks**     | React • Node.js            |
+| 🎨 **Background**     | UI/UX Design               |
+| 🧰 **Tools**          | Git • GitHub • VS Code     |
+| 🚀 **Approach**       | Design → Develop → Build   |
 
+\<picture>
+&#x20; \<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake-dark.svg](https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake-dark.svg)">
+&#x20; \<source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake.svg](https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake.svg)">
+&#x20; \<img src="[https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake.svg](https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake.svg)" alt="GitHub contribution snake">
+\</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake.svg" alt="GitHub contribution snake">
-</picture>
+\<br>
 
+\<p align="center">
+&#x20; \<strong>🚀 Code with Purpose. Build with Passion.\</strong>
+\</p>
 
+\<p align="center">
+&#x20; \<em>Thanks for visiting my GitHub profile! 👋\</em>
+\</p>
 
-<br>
-
-<p align="center">
-  <strong>🚀 Keep Learning. Keep Building. Keep Improving.</strong>
-</p>
-
-<p align="center">
-  <em>Thanks for visiting my GitHub profile! 👋</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=100\&section=footer)" width="100%" />
+\</p>
