@@ -109,19 +109,6 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 
 <br>
-💻 Technical Expertise
-
-| Technology / Area | Focus |
-| :--- | :--- |
-| 🟨 **JavaScript** | Modern JavaScript & Programming |
-| 🔷 **TypeScript** | Typed JavaScript & Code Structure |
-| ⚛️ **React** | Components, Props, State & React Development |
-| 🌐 **Full Stack Web Development** | Frontend & Backend Development |
-| 🧠 **Programming** | Logic & Problem Solving |
-| 📱 **Responsive Web Design** | Interfaces for Different Screen Sizes |
-| 🔧 **Git & GitHub** | Version Control & Project Management |
-
----
 
 ## 🚀 What I'm Working On
 
