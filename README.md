@@ -109,7 +109,7 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 
 <br>
-## 💻 Technical Expertise
+💻 Technical Expertise
 
 | Technology / Area | Focus |
 | :--- | :--- |
