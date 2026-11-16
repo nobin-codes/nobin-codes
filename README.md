@@ -101,14 +101,9 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 ### 💳 Payments & Testing
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=stripe" height="40" alt="Stripe" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" />
-  <strong>SSLCommerz</strong>
-</p>
+![Stripe](https://skillicons.dev/icons?i=stripe) ![Jest](https://skillicons.dev/icons?i=jest) **SSLCommerz**
 
 **Also:** Payment Integration · Testing Fundamentals
-
 
 
 <br>
