@@ -59,41 +59,105 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 <br>
 
-<span>🛠️ Technology Stack</span>
-<br>
+## 🧩 Technical Skills & Expertise
 
-💻 Languages
+### 01. Foundation
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="48" alt="HTML5, CSS3, JavaScript, TypeScript" />
-</p>
-
-<br>
-
-⚛️ JavaScript Frameworks & Libraries
+*The building blocks behind every web experience.*
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss" height="48" alt="React, Node.js, Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="28" alt="HTML5" /> HTML5 &nbsp;
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="28" alt="CSS3" /> CSS3 &nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="JavaScript" /> JavaScript
 </p>
 
-<br>
+- ES6+
+- Problem Solving
 
-🧰 Tools & Technologies
+### 02. Frontend Development
+
+*Creating responsive, interactive user experiences.*
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="48" alt="VS Code, Git, GitHub" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="28" alt="React" /> React &nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="28" alt="Next.js" /> Next.js &nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="28" alt="TypeScript" /> TypeScript &nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="28" alt="Tailwind CSS" /> Tailwind CSS
 </p>
 
-<br>
+- API Integration
+- Responsive Design
+- shadcn/ui
+- HeroUI
 
-🎨 Design
+### 03. Backend & Database
+
+*Building application logic, APIs, and data-driven features.*
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai" height="48" alt="Figma, Adobe Illustrator" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="28" alt="Node.js" /> Node.js &nbsp;
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="28" alt="Express.js" /> Express.js &nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="28" alt="MongoDB" /> MongoDB
 </p>
 
-<br>
+- Mongoose / ODM
+- Modular Architecture
 
+### 04. UI/UX & Design
+
+*Combining visual design with practical, user-centered thinking.*
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="28" alt="Figma" /> Figma
+</p>
+
+- UI Design
+- UX Design
+- Wireframing
+- Prototyping
+- Design Systems
+
+### 05. AI & Modern Development
+
+*Using AI as a practical tool for building and problem-solving.*
+
+- AI Integration
+- AI-Assisted Coding
+- AI-Assisted Development
+- Prompting & Context Engineering
+- Problem Analysis
+
+### 06. Tools & Workflow
+
+*Tools for developing, collaborating, and managing projects.*
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="28" alt="Git" /> Git &nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="28" alt="GitHub" /> GitHub &nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="28" alt="Visual Studio Code" /> Visual Studio Code
+</p>
+
+- DOM & BOM
+- ES6+ Concepts
+
+### 07. Authentication & Security
+
+*Implementing authentication and access control.*
+
+- Better Auth
+- Role-Based Access Control (RBAC)
+
+### 08. Payments & Testing
+
+*Payment integrations and software quality practices.*
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" height="28" alt="Stripe" /> Stripe &nbsp;
+  <img src="https://cdn.simpleicons.org/jest/C21325" height="28" alt="Jest" /> Testing
+</p>
+
+- SSLCommerz
+- Testing Fundamentals
 ## 💻 Technical Expertise
 
 | Technology / Area | Focus |
