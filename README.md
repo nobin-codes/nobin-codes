@@ -110,7 +110,7 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 <br>
 💻 Technical Expertise
-<br>
+
 | Technology / Area | Focus |
 | :--- | :--- |
 | 🟨 **JavaScript** | Modern JavaScript & Programming |
