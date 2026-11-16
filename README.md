@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&height=90&lines=%3C+Hello%2C+I'm+Nobin+%2F%3E;%E2%9A%A1+Full+Stack+Web+Programmer;%F0%9F%9A%80+Building+Modern+Web+Applications;%F0%9F%92%BB+Turning+Ideas+Into+Interactive+Web+Experiences;%F0%9F%8E%A8+UI%2FUX+Design+Experience;%F0%9F%94%A5+Code.+Create.+Innovate."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&height=90&lines=%3C+Hello%2C+I'm+Nobin+%2F%3E;%E2%9A%A1+Full+Stack+Web+Developer;%F0%9F%9A%80+Building+Modern+Web+Applications;%F0%9F%92%BB+Turning+Ideas+Into+Interactive+Web+Experiences;%F0%9F%8E%A8+UI%2FUX+Design+Experience;%F0%9F%94%A5+Code.+Create.+Innovate."
     alt="Typing Animation"
   />
 </p>
@@ -15,14 +15,14 @@
 </p>
 
 <h1 align="center">Heyy 👋, I'm Kashif Akhter Nobin</h1>
-<h3 align="center">Full Stack Web Programmer | UI/UX Designer</h3>
+<h3 align="center">Full Stack Web Developer | UI/UX Designer | Problem Solver</h3>
 <p align="center">
   <em>Designing • Programming • Building • Innovating</em>
 </p>
 
 <br>
 
-I'm a **Full Stack Web Programmer** passionate about building modern, responsive, and interactive web applications.
+I'm a **Full Stack Web Developer** passionate about building modern, responsive, and interactive web applications.
 
 I enjoy building websites, exploring new technologies, and transforming ideas into functional digital experiences.
 
@@ -161,7 +161,7 @@ A modern business website built to showcase digital services and solutions throu
 
 ### 💻 Web Development Projects
 
-A collection of web applications and projects built using HTML, CSS, JavaScript, React, and modern web technologies.
+A collection of web applications and projects built using HTML, CSS, JavaScript, React, Next.js and modern web technologies.
 
 ---
 
