@@ -29,7 +29,7 @@ I enjoy building websites, exploring new technologies, and transforming ideas in
 I also have experience with UI/UX design and enjoy combining design with development to create better digital experiences.
 
 - 🔭 Focused on **Full Stack Web Development**
-- 💻 Working with **JavaScript, TypeScript, and React**
+- 💻 Working with **JavaScript, TypeScript, React and Next.js**
 - 🧠 Interested in **Programming, Problem Solving, and Software Development**
 - 🛠️ Building **Web Applications and Digital Products**
 - 💡 Passionate about **Programming and Technology**
