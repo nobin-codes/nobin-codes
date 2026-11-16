@@ -98,13 +98,22 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 **Better Auth** · Role-Based Access Control (RBAC)
 
-### Payments & Testing
+
+### 💳 Payments & Testing
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=stripe,jest" alt="Stripe and Jest" />
+  <img src="https://skillicons.dev/icons?i=stripe" height="36" alt="Stripe" />
+  <strong>Stripe</strong>
+  &nbsp;&nbsp;&nbsp;
+  <strong>SSLCommerz</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jest" height="36" alt="Jest" />
+  <strong>Jest</strong>
 </p>
 
-**Also:** SSLCommerz, Testing Fundamentals.
+- Payment Integration
+- Testing Fundamentals
+
 
 
 
