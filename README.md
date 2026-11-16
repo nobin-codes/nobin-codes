@@ -188,7 +188,7 @@ A collection of web applications and projects built using HTML, CSS, JavaScript,
 | 💻 **Languages** | JavaScript • TypeScript |
 | 🎨 **Experience** | UI/UX Design |
 | 🧰 **Tools** | Git • GitHub • VS Code |
-| 🚀 **Approach** | Design → Develop → Build |
+| 🚀 **Approach** | Design → Develop → Deploy |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nobin-codes/nobin-codes/output/github-snake-dark.svg">
