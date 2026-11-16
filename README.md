@@ -101,7 +101,11 @@ I also have experience with UI/UX design and enjoy combining design with develop
 
 ### 💳 Payments & Testing
 
-![Stripe](https://skillicons.dev/icons?i=stripe) ![Jest](https://skillicons.dev/icons?i=jest) **SSLCommerz**
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/SSLCommerz-1B4D89?style=for-the-badge&logoColor=white" alt="SSLCommerz" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+</p>
 
 **Also:** Payment Integration · Testing Fundamentals
 
